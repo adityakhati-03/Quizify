@@ -140,8 +140,8 @@ button:hover {
 }
 
 .option-btn {
-    background: #f3e5f5;
-    border: 2px solid transparent;
+    background: rgba(199, 198, 198, 0.932);
+    border: 2px solid;
     padding: 15px;
     border-radius: 8px;
     font-size: 1.2rem;
@@ -152,7 +152,7 @@ button:hover {
 }
 
 .option-btn:hover {
-    background: #d1c4e9;
+    background: rgb(100, 99, 99);
 }
 
 .option-btn.correct {
