@@ -1,0 +1,618 @@
+{
+  "__collections__": {
+    "6th": {
+      "Science": {
+        "__collections__": {
+          "Curiosity": {
+            "Chapter 2  COMPONENTS OF FOOD": {
+              "__collections__": {
+                "questions": {
+                  "q1": {
+                    "question": "Which of the following is a rich source of carbohydrates?",
+                    "options": ["Rice", "Pulses", "Milk", "Egg"],
+                    "answer": "Rice",
+                    "explanation": "Rice is high in carbohydrates, which provide energy."
+                  },
+                  "q2": {
+                    "question": "Which vitamin is obtained from sunlight?",
+                    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+                    "answer": "Vitamin D",
+                    "explanation": "Sunlight helps the body produce Vitamin D, essential for bone health."
+                  },
+                  "q3": {
+                    "question": "Which nutrient is needed for the growth and repair of our body?",
+                    "options": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+                    "answer": "Proteins",
+                    "explanation": "Proteins are the body-building nutrients."
+                  },
+                  "q4": {
+                    "question": "Which of these is a protective food?",
+                    "options": ["Rice", "Milk", "Sugar", "Butter"],
+                    "answer": "Milk",
+                    "explanation": "Milk contains vitamins and minerals that protect the body from diseases."
+                  },
+                  "q5": {
+                    "question": "Deficiency of Vitamin C leads to which disease?",
+                    "options": ["Scurvy", "Rickets", "Beri-Beri", "Night blindness"],
+                    "answer": "Scurvy",
+                    "explanation": "Vitamin C deficiency causes scurvy, leading to bleeding gums."
+                  },
+                  "q6": {
+                    "question": "Which mineral is necessary for healthy bones and teeth?",
+                    "options": ["Iron", "Calcium", "Iodine", "Potassium"],
+                    "answer": "Calcium",
+                    "explanation": "Calcium keeps bones and teeth strong."
+                  },
+                  "q7": {
+                    "question": "Which nutrient provides the most energy per gram?",
+                    "options": ["Proteins", "Fats", "Carbohydrates", "Minerals"],
+                    "answer": "Fats",
+                    "explanation": "Fats provide about 9 kcal of energy per gram, the highest among nutrients."
+                  },
+                  "q8": {
+                    "question": "Deficiency of Vitamin D causes which disease?",
+                    "options": ["Rickets", "Goitre", "Anaemia", "Kwashiorkor"],
+                    "answer": "Rickets",
+                    "explanation": "Vitamin D deficiency leads to soft and weak bones, causing rickets."
+                  },
+                  "q9": {
+                    "question": "What is the main function of roughage in our diet?",
+                    "options": ["Provide energy", "Build muscles", "Help digestion", "Provide vitamins"],
+                    "answer": "Help digestion",
+                    "explanation": "Roughage helps in proper movement of food in the digestive tract."
+                  },
+                  "q10": {
+                    "question": "Which nutrient helps in the formation of red blood cells?",
+                    "options": ["Iron", "Calcium", "Iodine", "Zinc"],
+                    "answer": "Iron",
+                    "explanation": "Iron is needed to make haemoglobin in red blood cells."
+                  },
+                  "q11": {
+                    "question": "Which of these is a source of protein?",
+                    "options": ["Pulses", "Sugar", "Rice", "Oil"],
+                    "answer": "Pulses",
+                    "explanation": "Pulses are rich in proteins, essential for growth."
+                  },
+                  "q12": {
+                    "question": "Which vitamin deficiency causes night blindness?",
+                    "options": ["Vitamin A", "Vitamin B1", "Vitamin C", "Vitamin K"],
+                    "answer": "Vitamin A",
+                    "explanation": "Vitamin A is essential for good vision, especially in dim light."
+                  },
+                  "q13": {
+                    "question": "Which of the following is NOT a carbohydrate-rich food?",
+                    "options": ["Potato", "Wheat", "Fish", "Rice"],
+                    "answer": "Fish",
+                    "explanation": "Fish is rich in proteins, not carbohydrates."
+                  },
+                  "q14": {
+                    "question": "Which vitamin helps in blood clotting?",
+                    "options": ["Vitamin A", "Vitamin K", "Vitamin D", "Vitamin B12"],
+                    "answer": "Vitamin K",
+                    "explanation": "Vitamin K is essential for proper clotting of blood."
+                  },
+                  "q15": {
+                    "question": "Deficiency of iodine causes which disease?",
+                    "options": ["Goitre", "Anaemia", "Rickets", "Scurvy"],
+                    "answer": "Goitre",
+                    "explanation": "Lack of iodine causes swelling of the thyroid gland, leading to goitre."
+                  },
+                  "q16": {
+                    "question": "Which nutrient helps in insulation and protecting organs?",
+                    "options": ["Proteins", "Fats", "Carbohydrates", "Vitamins"],
+                    "answer": "Fats",
+                    "explanation": "Fats act as an energy reserve and protect internal organs."
+                  },
+                  "q17": {
+                    "question": "Which of these is NOT a function of water in our body?",
+                    "options": ["Transporting nutrients", "Maintaining temperature", "Providing energy", "Removing waste"],
+                    "answer": "Providing energy",
+                    "explanation": "Water does not provide energy but is essential for many body functions."
+                  },
+                  "q18": {
+                    "question": "Which of these is a deficiency disease caused by lack of protein?",
+                    "options": ["Kwashiorkor", "Scurvy", "Goitre", "Night blindness"],
+                    "answer": "Kwashiorkor",
+                    "explanation": "Kwashiorkor is caused by severe protein deficiency."
+                  },
+                  "q19": {
+                    "question": "Which is the richest source of Vitamin C?",
+                    "options": ["Amla", "Milk", "Rice", "Egg"],
+                    "answer": "Amla",
+                    "explanation": "Amla contains a high amount of Vitamin C."
+                  },
+                  "q20": {
+                    "question": "Which of these is a source of both carbohydrates and proteins?",
+                    "options": ["Pulses", "Sugar", "Oil", "Butter"],
+                    "answer": "Pulses",
+                    "explanation": "Pulses contain both carbohydrates and proteins."
+                  },
+                  "q101": {
+                    "question": "Which nutrient helps in building and repairing body tissues?",
+                    "options": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+                    "answer": "Proteins",
+                    "explanation": "Proteins are essential for growth and repair of body tissues."
+                  },
+                  "q102": {
+                    "question": "Which of the following is a source of fats?",
+                    "options": ["Butter", "Rice", "Apple", "Potato"],
+                    "answer": "Butter",
+                    "explanation": "Butter is rich in fats."
+                  },
+                  "q103": {
+                    "question": "Which vitamin helps in blood clotting?",
+                    "options": ["Vitamin K", "Vitamin A", "Vitamin C", "Vitamin D"],
+                    "answer": "Vitamin K",
+                    "explanation": "Vitamin K is essential for blood clotting."
+                  },
+                  "q104": {
+                    "question": "Deficiency of which vitamin causes scurvy?",
+                    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+                    "answer": "Vitamin C",
+                    "explanation": "Vitamin C deficiency leads to scurvy."
+                  },
+                  "q105": {
+                    "question": "Which mineral is important for healthy teeth and bones?",
+                    "options": ["Calcium", "Iron", "Potassium", "Sodium"],
+                    "answer": "Calcium",
+                    "explanation": "Calcium is essential for strong teeth and bones."
+                  },
+                  "q106": {
+                    "question": "Which of these foods is rich in carbohydrates?",
+                    "options": ["Sugarcane", "Chicken", "Fish", "Milk"],
+                    "answer": "Sugarcane",
+                    "explanation": "Sugarcane contains high amounts of carbohydrates."
+                  },
+                  "q107": {
+                    "question": "Which nutrient provides the most energy per gram?",
+                    "options": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+                    "answer": "Fats",
+                    "explanation": "Fats provide 9 calories per gram, more than carbohydrates or proteins."
+                  },
+                  "q108": {
+                    "question": "Which vitamin is known as the sunshine vitamin?",
+                    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+                    "answer": "Vitamin D",
+                    "explanation": "Vitamin D is synthesized in the skin on exposure to sunlight."
+                  },
+                  "q109": {
+                    "question": "Which nutrient helps in transporting oxygen in the blood?",
+                    "options": ["Calcium", "Iron", "Vitamin C", "Protein"],
+                    "answer": "Iron",
+                    "explanation": "Iron is a key component of hemoglobin which transports oxygen."
+                  },
+                  "q110": {
+                    "question": "Which nutrient is mostly stored as body fat?",
+                    "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
+                    "answer": "Fats",
+                    "explanation": "Excess fats are stored in the body for energy reserves."
+                  },
+                  "q111": {
+                    "question": "Which nutrient deficiency causes weakness and anemia?",
+                    "options": ["Calcium", "Iron", "Vitamin A", "Vitamin D"],
+                    "answer": "Iron",
+                    "explanation": "Iron deficiency leads to anemia and fatigue."
+                  },
+                  "q112": {
+                    "question": "Which nutrient is important for vision and skin health?",
+                    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin K"],
+                    "answer": "Vitamin A",
+                    "explanation": "Vitamin A is essential for good eyesight and healthy skin."
+                  },
+                  "q113": {
+                    "question": "Which nutrient is a major component of enzymes and hormones?",
+                    "options": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+                    "answer": "Proteins",
+                    "explanation": "Proteins are vital for enzymes and hormones."
+                  },
+                  "q114": {
+                    "question": "Which food is a rich source of Vitamin C?",
+                    "options": ["Orange", "Rice", "Meat", "Milk"],
+                    "answer": "Orange",
+                    "explanation": "Oranges contain high amounts of Vitamin C."
+                  },
+                  "q115": {
+                    "question": "Which mineral helps in nerve transmission and muscle contraction?",
+                    "options": ["Calcium", "Potassium", "Sodium", "Iron"],
+                    "answer": "Calcium",
+                    "explanation": "Calcium ions are essential in nerve impulses and muscle contractions."
+                  },
+                  "q116": {
+                    "question": "Which nutrient helps in regulating body temperature?",
+                    "options": ["Carbohydrates", "Water", "Fats", "Vitamins"],
+                    "answer": "Water",
+                    "explanation": "Water helps regulate body temperature and maintain hydration."
+                  },
+                  "q117": {
+                    "question": "Which nutrient deficiency leads to rickets?",
+                    "options": ["Vitamin C", "Vitamin A", "Vitamin D", "Iron"],
+                    "answer": "Vitamin D",
+                    "explanation": "Vitamin D deficiency causes rickets, leading to weak bones."
+                  },
+                  "q118": {
+                    "question": "Which nutrient is important for blood clotting?",
+                    "options": ["Vitamin K", "Vitamin D", "Vitamin C", "Calcium"],
+                    "answer": "Vitamin K",
+                    "explanation": "Vitamin K plays a vital role in blood clotting."
+                  },
+                  "q119": {
+                    "question": "Which nutrient is stored in the liver and muscles for energy?",
+                    "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
+                    "answer": "Carbohydrates",
+                    "explanation": "Carbohydrates are stored as glycogen in liver and muscles."
+                  },
+                  "q120": {
+                    "question": "Which nutrient helps in healing wounds?",
+                    "options": ["Vitamin C", "Vitamin A", "Vitamin D", "Iron"],
+                    "answer": "Vitamin C",
+                    "explanation": "Vitamin C is important for collagen formation and healing."
+                  },
+                  "q201": {
+                    "question": "Which of these is NOT a nutrient?",
+                    "options": ["Carbohydrates", "Fats", "Water", "Plastic"],
+                    "answer": "Plastic",
+                    "explanation": "Plastic is not a nutrient; it is a synthetic material."
+                  },
+                  "q202": {
+                    "question": "What type of nutrient are starch and sugar?",
+                    "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
+                    "answer": "Carbohydrates",
+                    "explanation": "Starch and sugar are carbohydrates, providing energy."
+                  },
+                  "q203": {
+                    "question": "Which vitamin helps maintain healthy gums and teeth?",
+                    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+                    "answer": "Vitamin C",
+                    "explanation": "Vitamin C prevents scurvy and keeps gums healthy."
+                  },
+                  "q204": {
+                    "question": "Which of the following is a function of fats?",
+                    "options": ["Provide energy", "Build muscles", "Carry oxygen", "Help in digestion"],
+                    "answer": "Provide energy",
+                    "explanation": "Fats provide long-term energy storage."
+                  },
+                  "q205": {
+                    "question": "What do proteins mainly provide for our body?",
+                    "options": ["Energy", "Building blocks", "Vitamins", "Minerals"],
+                    "answer": "Building blocks",
+                    "explanation": "Proteins help build and repair body tissues."
+                  },
+                  "q206": {
+                    "question": "Which mineral is needed to transport oxygen in blood?",
+                    "options": ["Calcium", "Iron", "Potassium", "Zinc"],
+                    "answer": "Iron",
+                    "explanation": "Iron is part of hemoglobin in red blood cells."
+                  },
+                  "q207": {
+                    "question": "Which nutrient is required in the largest amount?",
+                    "options": ["Vitamins", "Minerals", "Water", "Proteins"],
+                    "answer": "Water",
+                    "explanation": "Water is essential and needed in the largest quantity."
+                  },
+                  "q208": {
+                    "question": "Which vitamin is important for healthy skin and eyesight?",
+                    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+                    "answer": "Vitamin A",
+                    "explanation": "Vitamin A supports vision and skin health."
+                  },
+                  "q209": {
+                    "question": "Which nutrient deficiency causes night blindness?",
+                    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+                    "answer": "Vitamin A",
+                    "explanation": "Lack of Vitamin A causes night blindness."
+                  },
+                  "q210": {
+                    "question": "Which nutrient is most important for energy?",
+                    "options": ["Proteins", "Carbohydrates", "Water", "Vitamins"],
+                    "answer": "Carbohydrates",
+                    "explanation": "Carbohydrates are the main energy source."
+                  },
+                  "q211": {
+                    "question": "Which vitamin helps in absorption of calcium?",
+                    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+                    "answer": "Vitamin D",
+                    "explanation": "Vitamin D helps in calcium absorption and bone health."
+                  },
+                  "q212": {
+                    "question": "Which food is rich in protein?",
+                    "options": ["Rice", "Fish", "Potatoes", "Sugar"],
+                    "answer": "Fish",
+                    "explanation": "Fish is a good source of protein."
+                  },
+                  "q213": {
+                    "question": "Which nutrient helps to regulate body temperature?",
+                    "options": ["Water", "Proteins", "Fats", "Carbohydrates"],
+                    "answer": "Water",
+                    "explanation": "Water helps cool the body and maintain temperature."
+                  },
+                  "q214": {
+                    "question": "Which vitamin deficiency causes bleeding gums?",
+                    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+                    "answer": "Vitamin C",
+                    "explanation": "Vitamin C deficiency causes bleeding gums."
+                  },
+                  "q215": {
+                    "question": "Which mineral is important for strong bones and teeth?",
+                    "options": ["Iron", "Calcium", "Potassium", "Zinc"],
+                    "answer": "Calcium",
+                    "explanation": "Calcium strengthens bones and teeth."
+                  },
+                  "q216": {
+                    "question": "Which nutrient provides insulation and protection to organs?",
+                    "options": ["Carbohydrates", "Fats", "Proteins", "Vitamins"],
+                    "answer": "Fats",
+                    "explanation": "Fats protect organs and provide insulation."
+                  },
+                  "q217": {
+                    "question": "Which nutrient is necessary for the formation of enzymes?",
+                    "options": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+                    "answer": "Proteins",
+                    "explanation": "Proteins form enzymes that catalyze biochemical reactions."
+                  },
+                  "q218": {
+                    "question": "Which nutrient deficiency causes rickets?",
+                    "options": ["Vitamin D", "Vitamin C", "Vitamin A", "Vitamin K"],
+                    "answer": "Vitamin D",
+                    "explanation": "Vitamin D deficiency causes rickets in children."
+                  },
+                  "q219": {
+                    "question": "Which of the following is NOT a source of carbohydrates?",
+                    "options": ["Wheat", "Rice", "Meat", "Potatoes"],
+                    "answer": "Meat",
+                    "explanation": "Meat contains mostly proteins and fats, not carbohydrates."
+                  },
+                  "q220": {
+                    "question": "Which nutrient helps in blood clotting?",
+                    "options": ["Vitamin C", "Vitamin K", "Vitamin A", "Vitamin D"],
+                    "answer": "Vitamin K",
+                    "explanation": "Vitamin K is essential for blood clotting."
+                  },
+                  "q221": {
+                    "question": "What is the main function of carbohydrates in our diet?",
+                    "options": ["Build muscles", "Provide energy", "Protect organs", "Regulate temperature"],
+                    "answer": "Provide energy",
+                    "explanation": "Carbohydrates are the main source of energy."
+                  },
+                  "q222": {
+                    "question": "Which nutrient is essential for growth and repair of body tissues?",
+                    "options": ["Proteins", "Fats", "Carbohydrates", "Vitamins"],
+                    "answer": "Proteins",
+                    "explanation": "Proteins help repair and build body tissues."
+                  },
+                  "q223": {
+                    "question": "Which vitamin is produced when the skin is exposed to sunlight?",
+                    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+                    "answer": "Vitamin D",
+                    "explanation": "Sunlight helps the body produce Vitamin D."
+                  },
+                  "q224": {
+                    "question": "Which nutrient helps in the absorption of fat-soluble vitamins?",
+                    "options": ["Proteins", "Fats", "Carbohydrates", "Water"],
+                    "answer": "Fats",
+                    "explanation": "Fats help absorb vitamins A, D, E, and K."
+                  },
+                  "q225": {
+                    "question": "Which food item is a rich source of Vitamin C?",
+                    "options": ["Orange", "Rice", "Milk", "Egg"],
+                    "answer": "Orange",
+                    "explanation": "Oranges are rich in Vitamin C."
+                  },
+                  "q226": {
+                    "question": "What mineral is necessary for strong teeth and bones?",
+                    "options": ["Iron", "Calcium", "Zinc", "Magnesium"],
+                    "answer": "Calcium",
+                    "explanation": "Calcium is essential for healthy bones and teeth."
+                  },
+                  "q227": {
+                    "question": "Which nutrient deficiency causes scurvy?",
+                    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+                    "answer": "Vitamin C",
+                    "explanation": "Vitamin C deficiency causes scurvy."
+                  },
+                  "q228": {
+                    "question": "Which nutrient helps regulate body temperature?",
+                    "options": ["Water", "Carbohydrates", "Proteins", "Fats"],
+                    "answer": "Water",
+                    "explanation": "Water regulates body temperature through sweating."
+                  },
+                  "q229": {
+                    "question": "Which of the following is a fat-soluble vitamin?",
+                    "options": ["Vitamin B", "Vitamin C", "Vitamin D", "Vitamin B12"],
+                    "answer": "Vitamin D",
+                    "explanation": "Vitamin D is fat-soluble."
+                  },
+                  "q230": {
+                    "question": "Which nutrient is important for enzyme formation?",
+                    "options": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+                    "answer": "Proteins",
+                    "explanation": "Proteins form enzymes that speed up body reactions."
+                  },
+                  "q231": {
+                    "question": "Which food is a rich source of protein?",
+                    "options": ["Rice", "Fish", "Sugar", "Potatoes"],
+                    "answer": "Fish",
+                    "explanation": "Fish contains high-quality protein."
+                  },
+                  "q232": {
+                    "question": "What is the function of fiber in food?",
+                    "options": ["Provide energy", "Help digestion", "Build muscles", "Fight infections"],
+                    "answer": "Help digestion",
+                    "explanation": "Fiber aids in digestion and prevents constipation."
+                  },
+                  "q233": {
+                    "question": "Which nutrient deficiency causes anemia?",
+                    "options": ["Calcium", "Iron", "Vitamin C", "Vitamin D"],
+                    "answer": "Iron",
+                    "explanation": "Iron deficiency causes anemia, affecting blood."
+                  },
+                  "q234": {
+                    "question": "Which nutrient is a major component of cell membranes?",
+                    "options": ["Proteins", "Fats", "Carbohydrates", "Water"],
+                    "answer": "Fats",
+                    "explanation": "Fats are essential components of cell membranes."
+                  },
+                  "q235": {
+                    "question": "Which vitamin is important for blood clotting?",
+                    "options": ["Vitamin A", "Vitamin K", "Vitamin C", "Vitamin D"],
+                    "answer": "Vitamin K",
+                    "explanation": "Vitamin K helps blood to clot."
+                  },
+                  "q236": {
+                    "question": "Which nutrient helps in transporting oxygen in the blood?",
+                    "options": ["Calcium", "Iron", "Potassium", "Sodium"],
+                    "answer": "Iron",
+                    "explanation": "Iron is part of hemoglobin which carries oxygen."
+                  },
+                  "q237": {
+                    "question": "Which nutrient provides the most concentrated energy?",
+                    "options": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+                    "answer": "Fats",
+                    "explanation": "Fats provide more than double the energy of carbs or proteins."
+                  },
+                  "q238": {
+                    "question": "Which vitamin helps maintain healthy skin and vision?",
+                    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+                    "answer": "Vitamin A",
+                    "explanation": "Vitamin A is vital for skin and eye health."
+                  },
+                  "q239": {
+                    "question": "Which mineral is required for muscle function and nerve transmission?",
+                    "options": ["Potassium", "Iron", "Calcium", "Zinc"],
+                    "answer": "Potassium",
+                    "explanation": "Potassium is important for muscles and nerves."
+                  },
+                  "q240": {
+                    "question": "Which nutrient is essential for making hormones?",
+                    "options": ["Proteins", "Fats", "Carbohydrates", "Vitamins"],
+                    "answer": "Fats",
+                    "explanation": "Fats are required to synthesize certain hormones."
+                  },
+                  "q241": {
+                    "question": "Which nutrient is stored in the body as glycogen?",
+                    "options": ["Protein", "Fat", "Carbohydrates", "Vitamins"],
+                    "answer": "Carbohydrates",
+                    "explanation": "Carbohydrates are stored as glycogen in muscles and liver."
+                  },
+                  "q242": {
+                    "question": "What is the role of vitamin B complex in the body?",
+                    "options": ["Boost immunity", "Help in energy production", "Build muscles", "Strengthen bones"],
+                    "answer": "Help in energy production",
+                    "explanation": "Vitamin B complex helps convert food into energy."
+                  },
+                  "q243": {
+                    "question": "Which food item contains the highest amount of dietary fiber?",
+                    "options": ["Rice", "Apple", "Milk", "Egg"],
+                    "answer": "Apple",
+                    "explanation": "Apples are rich in dietary fiber."
+                  },
+                  "q244": {
+                    "question": "Which mineral helps in the formation of hemoglobin?",
+                    "options": ["Zinc", "Iron", "Calcium", "Magnesium"],
+                    "answer": "Iron",
+                    "explanation": "Iron is essential for hemoglobin synthesis."
+                  },
+                  "q245": {
+                    "question": "Which vitamin deficiency causes night blindness?",
+                    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+                    "answer": "Vitamin A",
+                    "explanation": "Vitamin A deficiency leads to night blindness."
+                  },
+                  "q246": {
+                    "question": "Which nutrient helps protect organs and provides insulation?",
+                    "options": ["Proteins", "Fats", "Carbohydrates", "Vitamins"],
+                    "answer": "Fats",
+                    "explanation": "Fats cushion organs and provide thermal insulation."
+                  },
+                  "q247": {
+                    "question": "Which vitamin is important for wound healing and immune function?",
+                    "options": ["Vitamin C", "Vitamin D", "Vitamin A", "Vitamin K"],
+                    "answer": "Vitamin C",
+                    "explanation": "Vitamin C aids in healing and boosts immunity."
+                  },
+                  "q248": {
+                    "question": "Which macronutrient is least used by the body for energy?",
+                    "options": ["Proteins", "Carbohydrates", "Fats", "Water"],
+                    "answer": "Proteins",
+                    "explanation": "Proteins are primarily used for repair, not energy."
+                  },
+                  "q249": {
+                    "question": "Which nutrient deficiency causes rickets?",
+                    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+                    "answer": "Vitamin D",
+                    "explanation": "Vitamin D deficiency causes rickets, affecting bones."
+                  },
+                  "q250": {
+                    "question": "Which vitamin is essential for blood clotting?",
+                    "options": ["Vitamin K", "Vitamin C", "Vitamin B12", "Vitamin A"],
+                    "answer": "Vitamin K",
+                    "explanation": "Vitamin K is necessary for proper blood clotting."
+                  },
+                  "q251": {
+                    "question": "What type of carbohydrate is glucose?",
+                    "options": ["Simple sugar", "Complex carbohydrate", "Fiber", "Starch"],
+                    "answer": "Simple sugar",
+                    "explanation": "Glucose is a monosaccharide, a simple sugar."
+                  },
+                  "q252": {
+                    "question": "Which nutrient is required for healthy hair and skin?",
+                    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin B7 (Biotin)"],
+                    "answer": "Vitamin B7 (Biotin)",
+                    "explanation": "Biotin supports hair and skin health."
+                  },
+                  "q253": {
+                    "question": "Which vitamin helps maintain healthy teeth and gums?",
+                    "options": ["Vitamin C", "Vitamin A", "Vitamin D", "Vitamin K"],
+                    "answer": "Vitamin C",
+                    "explanation": "Vitamin C is vital for gum health."
+                  },
+                  "q254": {
+                    "question": "Which mineral is important for enzyme function and immune system?",
+                    "options": ["Zinc", "Calcium", "Iron", "Potassium"],
+                    "answer": "Zinc",
+                    "explanation": "Zinc supports enzymes and immunity."
+                  },
+                  "q255": {
+                    "question": "Which food is the best source of Vitamin B12?",
+                    "options": ["Eggs", "Fruits", "Vegetables", "Grains"],
+                    "answer": "Eggs",
+                    "explanation": "Vitamin B12 is mainly found in animal products like eggs."
+                  },
+                  "q256": {
+                    "question": "What is the main role of water in the body?",
+                    "options": ["Provide energy", "Regulate temperature and transport nutrients", "Build muscles", "Protect organs"],
+                    "answer": "Regulate temperature and transport nutrients",
+                    "explanation": "Water helps regulate body temperature and transport nutrients."
+                  },
+                  "q257": {
+                    "question": "Which nutrient is necessary for repairing body tissues?",
+                    "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
+                    "answer": "Proteins",
+                    "explanation": "Proteins are vital for tissue repair."
+                  },
+                  "q258": {
+                    "question": "Which vitamin helps the body absorb calcium?",
+                    "options": ["Vitamin C", "Vitamin A", "Vitamin D", "Vitamin E"],
+                    "answer": "Vitamin D",
+                    "explanation": "Vitamin D improves calcium absorption."
+                  },
+                  "q259": {
+                    "question": "Which nutrient deficiency causes beriberi?",
+                    "options": ["Vitamin B1 (Thiamine)", "Vitamin C", "Vitamin D", "Vitamin A"],
+                    "answer": "Vitamin B1 (Thiamine)",
+                    "explanation": "Beriberi results from Vitamin B1 deficiency."
+                  },
+                  "q260": {
+                    "question": "Which nutrient is important for healthy vision?",
+                    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+                    "answer": "Vitamin A",
+                    "explanation": "Vitamin A is essential for vision."
+                  }
+}
+}
+}
+}
+}
+}
+}
+}
+}

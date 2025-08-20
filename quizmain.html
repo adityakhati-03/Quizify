@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quizify - Quiz</title>
+    <link rel="stylesheet" href="quizmain.css">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <!-- Firebase -->
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
+</head>
+<body>
+    <div class="quiz-container">
+        <div class="start-screen" id="start-screen">
+            <h1><i class="fa-solid fa-graduation-cap"></i> Quizify</h1>
+            <p>Test your knowledge and improve your skills!</p>
+
+            <label for="question-count" class="select-label">Select Number of Questions</label>
+            <select id="question-count" class="select-input">
+                <option value="" selected disabled>-- Choose --</option>
+                <option value="10">10</option>
+                <option value="20">20</option>
+                <option value="30">30</option>
+                <option value="50">50</option>
+                <option value="70">70</option>
+                <option value="100">100</option>
+            </select>
+
+            <label for="quiz-type" class="select-label">Select Quiz Type</label>
+            <select id="quiz-type" class="select-input">
+                <option value="" selected disabled>-- Choose --</option>
+                <option value="15">Rapid (15 sec per question)</option>
+                <option value="30">Standard (30 sec per question)</option>
+            </select>
+
+            <button id="start-btn"><i class="fa-solid fa-play"></i> Start Quiz</button>
+        </div>
+
+        <div class="question-screen hidden" id="question-screen">
+            <div class="top-bar">
+                <div class="question-number" id="question-number"></div>
+                <div class="timer" id="timer">00s</div>
+            </div>
+
+            <div class="progress-container">
+                <div class="progress-bar" id="progress-bar"></div>
+            </div>
+
+            <div class="question-text" id="question-text"></div>
+            <div class="options" id="options"></div>
+            <div class="explanation hidden" id="explanation"></div>
+        </div>
+
+        <div class="result-screen hidden" id="result-screen">
+            <h2>Congratulations!</h2>
+            <p>Your Score:</p>
+            <div class="final-score" id="final-score">0</div>
+            <div class="result-buttons">
+                <button id="try-again-btn"><i class="fa-solid fa-rotate-right"></i> Try Again</button>
+                <button id="home-btn"><i class="fa-solid fa-house"></i> Go Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="quizmain.js"></script>
+</body>
+</html>

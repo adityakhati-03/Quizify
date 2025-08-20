@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quizify - Select Your Class</title>
+    <link rel="stylesheet" href="selection.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <h1 class="logo">Quizify</h1>
+    </nav>
+
+    <!-- Selection Container -->
+    <main>
+        <h2 class="page-title">Select Your Class</h2>
+        <div id="selection-grid" class="grid-container">
+            <!-- Classes dynamically added from JS -->
+        </div>
+    </main>
+
+    <!-- Fullscreen Loader -->
+    <div id="loader-overlay">
+        <div class="loader-content">
+            <div class="spinner"></div>
+            <p id="loading-text">Loading your quiz...</p>
+        </div>
+    </div>
+
+    <script src="selection.js"></script>
+</body>
+</html>
