@@ -1,5 +1,7 @@
 📚 Quizify
 
+ https://adityakhati-03.github.io/Quizify/
+
 "Empower your mind, one NCERT chapter at a time."
 
 Quizify is an interactive quiz platform designed for CBSE NCERT students (Classes 6–12).
